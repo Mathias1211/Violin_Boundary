@@ -5,7 +5,7 @@ The NURBS curves are made available either as a Matlab file in the frame of GeoP
 
 If you use this data, please cite one of the following references according to the features you used:
 
-[1] J. Arf, M. Reichle, S. Klinkel, B. Simeon. Scaled boundary isogeometric analysis with C^1 coupling for Kirchhoff plate theory, Comput. Methods Appl. Mech. Eng., 415:116198, 2023. DOI:10.1016/j.cma.2023.116198
+[1] J. Arf, M. Reichle, S. Klinkel, B. Simeon. Scaled boundary isogeometric analysis with C1 coupling for Kirchhoff plate theory, Comput. Methods Appl. Mech. Eng., 415:116198, 2023. DOI:10.1016/j.cma.2023.116198
 
 [2] M. Reichle, J. Arf, B. Simeon, S. Klinkel. Smooth multi-patch scaled boundary isogeometric analysis for Kirchhoff-Love shells, Meccanica, 2023. DOI:10.1007/s11012-023-01692-z.
 
@@ -18,7 +18,7 @@ Viola_Boundary.3dm - 3D Rhino model of the NURBS boundary curves.
 
 | Curves in Matlab | Curves in Rhino |
 | :---: | :---: |
-|<img src="BoundaryCurves_Matlab.png" alt=" " width="500px"/> | <img src="BoundaryCurves_Rhino.PNG" alt=" " width="300px"/> |
+|<img src="BoundaryCurves_Matlab.png" alt=" " width="450px"/> | <img src="BoundaryCurves_Rhino.PNG" alt=" " width="250px"/> |
 
 ## Acknowledgments
 
