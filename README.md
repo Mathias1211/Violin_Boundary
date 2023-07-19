@@ -16,10 +16,26 @@ OrigCurve.m - Matlab file that provides the NURBS boundary in the workspace afte
 
 Viola_Boundary.3dm - 3D Rhino model of the NURBS boundary curves.
 
-| Matlab Curves | Rhino Curves |
+| Curves in Matlab | Curves in Rhino |
 | :---: | :---: |
 |<img src="BoundaryCurves_Matlab.png" alt=" " width="500px"/> | <img src="BoundaryCurves_Rhino.PNG" alt=" " width="300px"/> |
 
 ## Acknowledgments
 
 The financial support of the DFG (German Research Foundation) under Grant No. KL1345/10-2 (project number: 667493) and Grant No. SI756/5-2 (project number: 667494) is gratefully acknowledged.
+
+
+## Contact
+
+**Mathias Reichle** M.Sc.       
+LBB - Chair of Structural Analysis and Dynamics       
+RWTH Aachen University      
+email: <mathias.reichle@rwth-aaachen.de>      
+
+
+**Jeremias Arf**  M.Sc.  
+Department of Mathematics  
+RPTU Kaiserslautern-Landau       
+email: <arf@rhrk.uni-kl.de>
+
+---
