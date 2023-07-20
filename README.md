@@ -5,7 +5,7 @@ The repository contains the NURBS boundary curve of a violin with an F-hole pres
 
 The NURBS curves are made available either as a Matlab file in the frame of GeoPDEs or as a Rhino file. The Rhino files are split into the full violin or half of the violin due to symmetry.(*)
 
-If you use this data, please cite one of the following references according to the features you used:
+If you use this data, please cite one of the following references that is most suitable:
 
 [1] J. Arf, M. Reichle, S. Klinkel, B. Simeon. Scaled boundary isogeometric analysis with C1 coupling for Kirchhoff plate theory, Comput. Methods Appl. Mech. Eng., 415:116198, 2023. DOI:10.1016/j.cma.2023.116198
 
