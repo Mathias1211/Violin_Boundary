@@ -1,5 +1,4 @@
 # Violin_Boundary
-[![DOI](https://sandbox.zenodo.org/badge/667929288.svg)](https://sandbox.zenodo.org/badge/latestdoi/667929288)
 
 The repository contains the NURBS boundary curve of a violin with an F-hole presented in the works of Jeremias Arf and Mathias Reichle on SB-IGA.
 
