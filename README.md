@@ -1,5 +1,7 @@
 # Violin_Boundary
 
+[![DOI](https://zenodo.org/badge/667929288.svg)](https://zenodo.org/badge/latestdoi/667929288)
+
 The repository contains the NURBS boundary curve of a violin with an F-hole presented in the works of Jeremias Arf and Mathias Reichle on SB-IGA.
 
 The NURBS curves are made available either as a Matlab file in the frame of GeoPDEs or as a Rhino file. The Rhino files are split into the full violin or half of the violin due to symmetry.(*)
